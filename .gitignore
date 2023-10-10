@@ -3,3 +3,4 @@ build/
 *.egg*
 .mypy*
 .pytest*
+*/__pycache__/
